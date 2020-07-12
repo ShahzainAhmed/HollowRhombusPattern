@@ -1,2 +1,1 @@
-# HollowRhombusPattern
-Hollow Rhombus Pattern in Java.
+# H
